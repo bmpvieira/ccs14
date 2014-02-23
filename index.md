@@ -57,7 +57,7 @@ Anurag Priyam
 
 ![bionode](img/bionode.png)
 
-[github.com/bmpvieira/bionode](//github.com/bmpvieira/bionode)
+[github.com/bionode/bionode](//github.com/bionode/bionode)
 
 ---
 
